@@ -1,0 +1,80 @@
+{
+	"home": {
+		"tabTitle": "Strona główna (tab)",
+		"goToDetails": "Przejdź do szczegółów"
+	},
+	"onboarding": {
+		"step2": {
+			"title": "Uzupełnij podstawowe dane",
+			"subtitle": "Pomogą wybrać właściwe typy legalizacji i generować dokumenty z poprawnymi danymi"
+		},
+		"step3": {
+			"title": "Imię",
+			"subtitle": "Wpisz swoje imię"
+		},
+		"step4": {
+			"title": "Nazwisko",
+			"subtitle": "Wpisz swoje nazwisko"
+		},
+		"step5": {
+			"title": "Miasto zamieszkania",
+			"subtitle": "Możesz zmienić później w ustawieniach"
+		},
+		"step6": {
+			"title": "Numer telefonu",
+			"subtitle": "Możesz zmienić później w ustawieniach"
+		},
+		"back": "Wstecz",
+		"next": "Dalej",
+		"finish": "Zakończ",
+		"placeholders": {
+			"name": "Wpisz imię",
+			"surname": "Wpisz nazwisko",
+			"location": "Miasto",
+			"phone": "+48..."
+		}
+	},
+	"cases": {
+		"main": {
+			"title": "Twoja droga do legalizacji",
+			"myCasesButton": "moje sprawy",
+			"popularCases": "Popularne sprawy",
+			"allCases": "Wszystkie sprawy"
+		},
+		"myCases": {
+			"title": "Twoje sprawy",
+			"subtitle": "Tutaj możesz zobaczyć listę swoich aktywnych i zakończonych spraw",
+			"buttonTitle": "Nowa sprawa"
+		},
+		"casesList": {
+			"title": "Wybierz sprawę, która Cię interesuje",
+			"subtitle": "Po wyborze pojawi się ona w Twoich sprawach"
+		},
+		"case": {
+			"stageNo": "etap",
+			"nextStage": "następny etap",
+			"previousStage": "poprzedni etap",
+			"taskButtonIns": "instrukcja",
+			"taskButtonDate": "wybierz datę"
+		}
+	},
+	"header": {
+		"search": "szukaj"
+	},
+	"blog": {
+		"title": "Blog",
+		"popularPosts": "Popularne posty"
+	},
+	"advertising": {
+		"adv": "Reklama",
+		"follow": "Przejdź, jeśli Cię to zainteresowało"
+	},
+	"gdocs": {
+		"title": "Generuj dokumenty",
+		"myDocs": "Moje dokumenty",
+		"popularTypes": "Popularne kategorie",
+		"allTypes": "Wszystkie kategorie",
+		"generate": "Generuj",
+		"templatesListTitle": "Wybierz dokument, który Cię interesuje"
+	}
+}

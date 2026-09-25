@@ -1,0 +1,12 @@
+// import { Stack } from 'expo-router'
+// 
+// export default function PrivateLayout() {
+// 	return (
+// 		<Stack screenOptions={{ headerShown: false }}>
+// 			<Stack.Screen name="(tabs)" />
+// 			<Stack.Screen name="(stack)" />
+// 			<Stack.Screen name="(modal)" options={{ presentation: 'modal' }} />
+// 			<Stack.Screen name="onboarding" />
+// 		</Stack>
+// 	)
+// }

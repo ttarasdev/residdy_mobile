@@ -1,0 +1,80 @@
+{
+	"home": {
+		"tabTitle": "Home",
+		"goToDetails": "Go to details"
+	},
+	"onboarding": {
+		"step2": {
+			"title": "Fill in initial data",
+			"subtitle": "They will help choose the right legalization types and generate documents with your correct details"
+		},
+		"step3": {
+			"title": "First name",
+			"subtitle": "Enter your first name"
+		},
+		"step4": {
+			"title": "Surname",
+			"subtitle": "Enter your surname"
+		},
+		"step5": {
+			"title": "City of residence",
+			"subtitle": "You can change it later in settings"
+		},
+		"step6": {
+			"title": "Phone number",
+			"subtitle": "You can change it later in settings"
+		},
+		"back": "Back",
+		"next": "Next",
+		"finish": "Finish",
+		"placeholders": {
+			"name": "Enter your first name",
+			"surname": "Enter your surname",
+			"location": "City",
+			"phone": "+48..."
+		}
+	},
+	"cases": {
+		"main": {
+			"title": "Your path to legalization",
+			"myCasesButton": "my cases",
+			"popularCases": "Popular cases",
+			"allCases": "All cases"
+		},
+		"myCases": {
+			"title": "Your cases",
+			"subtitle": "Here you can view the list of your active and completed cases",
+			"buttonTitle": "New case"
+		},
+		"casesList": {
+			"title": "Choose the case that interests you",
+			"subtitle": "After selecting it, it will appear in your cases"
+		},
+		"case": {
+			"stageNo": "stage",
+			"nextStage": "next stage",
+			"previousStage": "previous stage",
+			"taskButtonIns": "instruction",
+			"taskButtonDate": "choose date"
+		}
+	},
+	"header": {
+		"search": "search"
+	},
+	"blog": {
+		"title": "Blog",
+		"popularPosts": "Popular posts"
+	},
+	"advertising": {
+		"adv": "Advertising",
+		"follow": "Visit if this caught your interest"
+	},
+	"gdocs": {
+		"title": "Generate documents",
+		"myDocs": "My documents",
+		"popularTypes": "Popular categories",
+		"allTypes": "All categories",
+		"generate": "Generate",
+		"templatesListTitle": "Choose the document you are interested in"
+	}
+}

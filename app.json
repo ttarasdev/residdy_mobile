@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Residdy",
+    "slug": "residdy_mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/app-icon-ios.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/app-icon-android-foreground.png",
+        "backgroundImage": "./assets/icons/app-icon-android-background.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/icons/app-icon-ios.png"
+    },
+    "plugins": [
+      "expo-localization",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#111D25",
+          "image": "./assets/logos/logo_r_white@3x.png",
+          "imageWidth": 100,
+          "resizeMode": "contain"
+        }
+      ],
+      "expo-router",
+      "expo-secure-store",
+      "expo-font",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Wybierz zdjęcie profilowe w Residdy.",
+          "cameraPermission": false,
+          "microphonePermission": false
+        }
+      ],
+      "expo-sharing"
+    ],
+    "scheme": "residdy"
+  }
+}
